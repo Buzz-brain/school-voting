@@ -2,7 +2,8 @@
 
 THIS IS A SCHOOL VOTING WEB APP
 
-For school election
+For school election 
+Provides transparency
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
